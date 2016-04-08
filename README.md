@@ -2,8 +2,8 @@
 Helps you quickly access the most important myUnisa tasks.
 
 ##Requirements:
-- [Google Chrome](https://www.google.co.za/chrome/browser/desktop/index.html)
-- A [myUnisa](https://my.unisa.ac.za/portal) account.
+- [Google Chrome](https://www.google.co.za/chrome/browser/desktop/index.html) (Or any variant of it eg. Chromium/Torch)
+- A [myUnisa](https://my.unisa.ac.za/portal) account
 
 ## Screenshot:
 
@@ -12,7 +12,7 @@ Helps you quickly access the most important myUnisa tasks.
 ##Installation:
 - Download [myUnisa-App](https://github.com/imbavirus/myUnisa-App/raw/master/myUnisa.crx)
 - Open Chrome and Navigate to chrome://extensions/
-- Drag myUnisa.crx onto the Chrome Extensions Page and click on 'Add App'
+- Drag 'myUnisa.crx' onto the Chrome Extensions Page and click on 'Add App'
 
 <img src="https://i.gyazo.com/5a3c8038d8937c5d3f354832b3955f28.gif"/>
 
