@@ -10,7 +10,7 @@ Helps you quickly access the most important myUnisa tasks.
 <img src="https://i.gyazo.com/78df2d6a15c291960543dc236fd8a0f0.png"/>
 
 ##Installation:
-- Download [myUnisa-App](https://github.com/imbavirus/myUnisa-App/releases/download/v1.0.4/myUnisa.crx)
+- Download [myUnisa-App](https://github.com/imbavirus/myUnisa-App/releases/download/v1.0.7/myUnisa.crx)
 - Open Chrome and Navigate to chrome://extensions/
 - Drag 'myUnisa.crx' onto the Chrome Extensions Page and click on 'Add App'
 
